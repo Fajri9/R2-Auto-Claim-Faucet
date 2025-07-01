@@ -1,0 +1,12 @@
+{
+  "name": "discord-faucet-claimer",
+  "version": "1.0.0",
+  "description": "Script untuk klaim faucet di Discord menggunakan banyak token.",
+  "main": "claim-r2.js",
+  "scripts": {
+    "start": "node claim-r2.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
